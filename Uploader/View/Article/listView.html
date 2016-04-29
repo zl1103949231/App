@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+	<css href="__PUBLIC__/dist/bootStrap/dist/css/bootstrap.min.css"/>
+	<css href="__PUBLIC__/dist/dataTables/dist/css/jquery.dataTables.min.css"/>
+	<load href="__PUBLIC__/js/jqueryMobile/js/jquery.js" />
+	<load href="__PUBLIC__/dist/jsTree/dist/jstree.min.js" />
+	<load href="__PUBLIC__/dist/dataTables/dist/js/jquery.dataTables.min.js" />
+	<load href="__PUBLIC__/dist/dataTables/dist/js/dataTables.bootstrap.min.js" />
+	<load href="__PUBLIC__/js/iframe-autoheight.js" />
+	<css href="__PUBLIC__/dist/jsTree/dist/themes/default/style.css"/>
+</head>
+<body>
+<ul class="breadcrumb">
+	<li>
+		<i class="icon-home"></i>
+		<a href="{:U('Home/index/home')}">Home</a>
+		<i class="icon-angle-right"></i>
+	</li>
+	<li>
+	<a  href="{:U('/Uploader/Blog/forumManege')}">板块列表</a>
+		<i class="icon-angle-right"></i>
+	</li>
+	<li><a href="{:U('listView')}?forum_id={$forum_id}">文章列表</a></li>
+</ul>
+<div class="container" >
+	<div  class="col-md-11">
+		<div class="panel panel-default" >
+			<div class="panel-heading">
+
+				<h3 class="panel-title">文章列表</h3>
+
+			</div>
+			<div class="panel-body ">
+				<a class="btn btn-success" href="{:U('edit')}?forum_id={$forum_id}">发文章</a>
+				<div class="title-block" >
+					<p id="img_panel_title"> </p>
+
+				</div>
+				<table  class="table table-hover student-detail table-display" id="article_table" >
+					<thead>
+					<tr>
+						<th>序号</th>
+						<th>标题</th>
+						<th>描述</th>
+						<th>封面图片</th>
+						<th>发布时间</th>
+						<th>来源</th>
+						<th>操作</th>
+					</tr>
+					</thead>
+					<tbody>
+					<foreach  name="articleList" item="article" key="k" >
+						<tr id="{$article.article_id}">
+							<td>{$k}</td>
+							<td>{$article.title}</td>
+							<td>{$article.description}</td>
+							<td><img src="{$article.img}" style="height:50px "  ></td>
+							<td>{$article.time}</td>
+							<td>{$article.source}</td>
+							<td><a class="btn btn-info" href= '{:U("edit")}?article_id={$article.article_id}'> 编辑</a>
+								<a class="btn btn-warning" href= '{:U("show")}?article_id={$article.article_id}' target="_blank"> 预览</a>
+								<a class="btn btn-danger" onclick="confrim_delete()" > 删除</a>
+								<if condition='$k == 0' >
+									<a  disabled="true" class="btn btn-default"> 上移</a>
+									<else />
+									<a href= '{:U("movePostion")}?article_id={$article.article_id}&&direction=up'class="btn btn-default"> 上移</a>
+								</if>
+								<if condition='$k eq count($articleList)-1' >
+
+									<a  disabled="true" class="btn btn-default"> 下移</a>
+									<else />
+									<a href= '{:U("movePostion")}?article_id={$article.article_id}&&direction=down' class="btn btn-default"> 下移</a>
+								</if>
+								<!--<a href= '{:U("movePostion")}?article_id={$article.article_id}&&up=true'> 上移</a>&nbsp;&nbsp;-->
+								<!--<a href= '{:U("movePostion")}?article_id={$article.article_id}&&up=false'> 下移</a></td>-->
+						</tr>
+					</foreach>
+					</tbody>
+
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		initTable($("#article_table"));
+
+	});
+	function  confrim_delete(){
+		if(confirm("确定删除?")){
+			location.href = '{:U("delete")}?article_id={$article.article_id}';
+		}
+	}
+	function initTable($table){
+
+//		var length=$("th",$table).length;
+//		$("th",$table).attr("width",100/length+"%");
+		$table.DataTable({
+			"bDestroy":true,
+			language: {
+				"sLengthMenu": "每页显示 _MENU_ 条记录",
+				"sZeroRecords": "抱歉， 没有找到",
+				"sInfo": "从 _START_ 到 _END_ /共 _TOTAL_ 条数据",
+				"sInfoEmpty": "没有数据",
+				"sInfoFiltered": "(从 _MAX_ 条数据中检索)",
+				"sSearch": "搜索：",
+				"oPaginate": {
+					"sFirst": "首页",
+					"sPrevious": "前一页",
+					"sNext": "后一页",
+					"sLast": "尾页"
+
+				},
+				"sZeroRecords": "没有检索到数据"
+			}
+
+		});
+
+	}
+</script>
+</body>
+</html>

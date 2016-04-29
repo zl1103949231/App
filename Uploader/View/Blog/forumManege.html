@@ -1,0 +1,98 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>文章管理系统</title>
+	<css href="__PUBLIC__/dist/bootStrap/dist/css/bootstrap.min.css"/>
+	<css href="__PUBLIC__/dist/dataTables/dist/css/jquery.dataTables.min.css"/>
+	<load href="__PUBLIC__/js/jqueryMobile/js/jquery.js" />
+	<load href="__PUBLIC__/dist/jsTree/dist/jstree.min.js" />
+	<load href="__PUBLIC__/dist/dataTables/dist/js/jquery.dataTables.min.js" />
+	<load href="__PUBLIC__/dist/dataTables/dist/js/dataTables.bootstrap.min.js" />
+	<load href="__PUBLIC__/js/iframe-autoheight.js" />
+	<css href="__PUBLIC__/dist/jsTree/dist/themes/default/style.css"/>
+</head>
+<body>
+<ul class="breadcrumb">
+<li>
+	<i class="icon-home"></i>
+	<a href="{:U('Home/index/home')}">Home</a>
+	<i class="icon-angle-right"></i>
+</li>
+<li><a href="{:U('Uploader/Blog/forumManege')}">板块列表</a></li>
+</ul>
+<div class="container" >
+<div  class="col-md-11">
+	<div class="panel panel-default" >
+		<div class="panel-heading">
+			<h3 class="panel-title">板块列表</h3>
+		</div>
+		<div class="panel-body ">
+			<div class="title-block" >
+				<p id="img_panel_title"></p>
+
+			</div>
+			<table  class="table table-hover student-detail table-display" id="forum_table" >
+				<thead>
+				<tr>
+					<th>序号</th>
+					<th>板块名</th>
+					<th>id</th>
+					<th>文章总数</th>
+					<th>更新时间</th>
+					<th>操作</th>
+				</tr>
+				</thead>
+				<tbody>
+				<foreach name="forumList" item="forum" key="k">
+					<tr >
+						<td>{$k}</td>
+						<td>{$forum.name}</td>
+						<td>{$forum.forum_id}</td>
+						<td>{$forum.count}</td>
+						<td>{$forum.updatetime}</td>
+						<td><a class="btn btn-info" href="{:U('Article/listView')}?forum_id={$forum.forum_id}">查看</a></td>
+					</tr>
+				</foreach>
+				</tbody>
+
+			</table>
+		</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+	$(function(){
+		initTable($("#forum_table"));
+
+	});
+
+	function initTable($table){
+
+		var length=$("th",$table).length;
+		$("th",$table).attr("width",100/length+"%");
+		$table.DataTable({
+			"bDestroy":true,
+			language: {
+				"sLengthMenu": "每页显示 _MENU_ 条记录",
+				"sZeroRecords": "抱歉， 没有找到",
+				"sInfo": "从 _START_ 到 _END_ /共 _TOTAL_ 条数据",
+				"sInfoEmpty": "没有数据",
+				"sInfoFiltered": "(从 _MAX_ 条数据中检索)",
+				"sSearch": "搜索：",
+				"oPaginate": {
+					"sFirst": "首页",
+					"sPrevious": "前一页",
+					"sNext": "后一页",
+					"sLast": "尾页"
+
+				},
+				"sZeroRecords": "没有检索到数据"
+			}
+
+		});
+
+
+	}
+</script>
+</body>
+</html>

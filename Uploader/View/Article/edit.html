@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+
+	<title>Title</title>
+
+</head>
+<body>
+<ul class="breadcrumb">
+	<li>
+		<i class="icon-home"></i>
+		<a href="{:U('Home/index/home')}">Home</a>
+		<i class="icon-angle-right"></i>
+	</li>
+	<li>
+
+		<a  href="{:U('/Uploader/Blog/forumManege')}">板块列表</a>
+		<i class="icon-angle-right"></i>
+	</li>
+	<li>
+
+		<a href="{:U('listView')}?forum_id={$forum_id}">文章列表</a>
+		<i class="icon-angle-right"></i>
+	</li>
+	<li><a  href= '{:U("edit")}?article_id={$article_id}'>文章编辑</a></li>
+</ul>
+<div class="container">
+<form action="{:U('add')}"
+        method="post" class="form-horizontal" id="form_acticle" >
+
+	<input type="hidden" name="forum_id" value="{$forum_id}"/>
+	<input type="hidden" name="article_id" value="{$article_id}"/>
+	<div class=" row form-group">
+		<label for="title" class="col-md-2 control-label" value="标题:">标题：</label>
+
+
+		<div class="col-md-10">
+			<input type="text" name="title" class="form-control" id="title"
+			       placeholder="文章标题" value="{$article->title}"  style="height: auto" required/>
+		</div>
+	</div>
+	<div class=" row form-group">
+		<label  for="description" class="col-md-2 control-label" value="文章简述:">文章简述:</label>
+		<div class="col-md-10">
+			<input type="text" name="description" class="form-control"
+			       id="description" placeholder="文章简述" value="{$article->description}" style="height: auto" required/>
+		</div>
+	</div>
+	<div class="row form-group">
+		<label  for="img" class="col-md-2 control-label" >封面图片</label>
+		<div class="col-md-10">
+		<input type="url" id="img" name="img" class="form-control" value="{$article->img}" style="height: auto" placeholder="封面图片链接" required>
+		</div>
+	</div>
+	<div class="row form-group">
+		<label  for="source" class="col-md-2 control-label" >文章来源</label>
+		<div class="col-md-10">
+			<input type="text" id="source" name="source" class="form-control" value="{$article->source}" style="height: auto" placeholder="文章来源" required >
+		</div>
+	</div>
+	<div class="row form-group">
+		<lable for="article_content" class="col-md-2 control-label">
+			正文:
+		</lable>
+		<div class="col-md-10">
+			<textarea id="article_content" name="content" form="form_acticle"    class="col-md-12" rows="20" required>{$article->content}
+			</textarea>
+		</div>
+	</div>
+	<div class="row  form-group">
+		<button id="submitBt"
+		        class="btn btn-success col-md-3 col-md-offset-4">
+			<empty name="article_id">
+				发布
+				<else />
+				修改
+			</empty>
+		</button>
+	</div>
+</form>
+</div>
+</body>
+</html>

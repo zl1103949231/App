@@ -1,0 +1,788 @@
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery-migrate-1.0.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery-ui-1.10.0.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002019s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/excanvas.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.elfinder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.noty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.cleditor.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002571s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.raty.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.uploadify-3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.imagesloaded.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.iphone.toggle.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.knob.modified.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028462s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/retina.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/counter.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/avatar.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/browser-ie.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/browser-safari.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/browser-opera.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/browser-chrome-big.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012135s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/img/browser-firefox-big.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058253s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:29+08:00 ] ::1 /App/index.php/js/jquery.chosen.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005632s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/img/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery-migrate-1.0.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery-ui-1.10.0.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/excanvas.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.chosen.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.cleditor.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.noty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.elfinder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.raty.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.iphone.toggle.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.uploadify-3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:30+08:00 ] ::1 /App/index.php/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/jquery.imagesloaded.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/jquery.knob.modified.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/counter.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/retina.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:31+08:00 ] ::1 /App/index.php/js/custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:51:35+08:00 ] ::1 /App/index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Index
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000225s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002900s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery-ui-1.10.0.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001931s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/excanvas.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001712s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004791s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002250s ]
+ERR: 无法加载模块:Js
+
+s
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.noty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.raty.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.chosen.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.iphone.toggle.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.imagesloaded.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.uploadify-3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/counter.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002748s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/retina.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/avatar.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/browser-ie.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/browser-safari.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/browser-opera.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/browser-firefox-big.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/img/browser-chrome-big.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002412s ]
+ERR: 无法加载模块:Img
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.knob.modified.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery-migrate-1.0.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004630s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery-migrate-1.0.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery-ui-1.10.0.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:25+08:00 ] ::1 /App/index.php/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/excanvas.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.flot.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.chosen.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.uniform.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.cleditor.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.noty.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.elfinder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.raty.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.iphone.toggle.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.uploadify-3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.imagesloaded.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.knob.modified.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/counter.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/retina.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T15:52:26+08:00 ] ::1 /App/index.php/js/custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Js
+
+[ 2016-03-20T16:31:37+08:00 ] ::1 /App/index.php/Upload/Blog/forumManege.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Upload
+
